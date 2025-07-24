@@ -1,8 +1,0 @@
-# requirements.txt
-numpy==1.23.0
-pandas==1.4.2
-matplotlib==3.5.2
-seaborn==0.11.2
-openpyxl==3.0.9
-rdflib==6.0.1
-# Add any other dependencies your project requires here.
